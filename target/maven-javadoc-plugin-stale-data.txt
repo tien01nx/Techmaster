@@ -1,0 +1,57 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/admin/Downloads/Techmaster/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/admin/Downloads/Techmaster/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Techmaster 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Techmaster 1.0-SNAPSHOT API'
+hihi.techmaster
+hihi.techmaster.Model
+hihi.techmaster.utils
+view
+'C:/Users/admin/Downloads/Techmaster/src/main/java/hihi/techmaster/Login.java'
+'C:/Users/admin/Downloads/Techmaster/src/main/java/hihi/techmaster/Model/User.java'
+'C:/Users/admin/Downloads/Techmaster/src/main/java/hihi/techmaster/Model/UserModel.java'
+'C:/Users/admin/Downloads/Techmaster/src/main/java/hihi/techmaster/Register.java'
+'C:/Users/admin/Downloads/Techmaster/src/main/java/hihi/techmaster/Techmaster.java'
+'C:/Users/admin/Downloads/Techmaster/src/main/java/hihi/techmaster/utils/Constant.java'
+'C:/Users/admin/Downloads/Techmaster/src/main/java/view/HomeView.java'
+C:\Users\admin\Downloads\Techmaster\src\main\java = 1665916897551
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\allclasses-index.html = 1666167070533
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\allpackages-index.html = 1666167070537
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\constant-values.html = 1666167070365
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\copy.svg = 1666167070593
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\element-list = 1666167070287
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\help-doc.html = 1666167070584
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\index-all.html = 1666167070571
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\index.html = 1666167070511
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\jquery-ui.overrides.css = 1666167070639
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\member-search-index.js = 1666167070546
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\module-search-index.js = 1666167070540
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\overview-summary.html = 1666167070575
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\overview-tree.html = 1666167070505
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\package-search-index.js = 1666167070542
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\script.js = 1666167070591
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\search.js = 1666167070596
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\serialized-form.html = 1666167070429
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\stylesheet.css = 1666167070588
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\tag-search-index.js = 1666167070548
+C:\Users\admin\Downloads\Techmaster\target\site\apidocs\type-search-index.js = 1666167070544
